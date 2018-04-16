@@ -1,0 +1,21 @@
+{
+    "name": "sortir",
+    "version": "1.0.0",
+    "description": "the first project",
+    "repository": {
+        "type": "git",
+        "url": "git + https://github.com/ldw394654116/Sortir"
+    },
+    "author": "ldw",
+    "dependencies": {
+        "http": "latest",
+        "s-calendar": "",
+        "fs": "latest",
+        "server": "latest",
+        "express": "latest",
+        "koa": "latest",
+        "vue": "latest",
+        "websocket": "latest",
+        "url": "latest"
+    }
+}
