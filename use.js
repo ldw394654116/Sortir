@@ -1,3 +1,6 @@
-import add from './used'
+import {
+    first,
+    second
+} from './used'
 
-console.log("use.js add = " + add(1, 2));
+alert(first);

@@ -1,3 +1,9 @@
-export var add = function (a, b) {
-    return a + b;
+var first = "link1";
+var second = function () {
+    return "link2";
+}
+
+export {
+    first,
+    second
 }

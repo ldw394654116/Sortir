@@ -16,6 +16,7 @@
         "koa": "latest",
         "vue": "latest",
         "websocket": "latest",
-        "url": "latest"
+        "url": "latest",
+        "babel": "latest"
     }
 }
